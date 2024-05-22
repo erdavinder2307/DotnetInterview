@@ -1,0 +1,6 @@
+@DotnetInterview_HostAddress = http://localhost:5120
+
+GET {{DotnetInterview_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
